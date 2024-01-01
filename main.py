@@ -17,7 +17,7 @@ link_natal_shopping = f"https://www.natalshopping.com.br/cinema#data_{data_forma
 link_midway = f"https://www.cinemark.com.br/natal/cinemas"
 
 # Natal Praia Shopping
-link_natal_praia = f"https://www.adorocinema.com/programacao/cinema-F0331/d-3/"
+link_natal_praia = f"https://www.adorocinema.com/programacao/cinema-F0331/"
 
 
 
